@@ -483,11 +483,13 @@ body {
   line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
+  margin-left: 24px;
 }
 .card-text {
   font-size: 16px;
   line-height: 1.87;
   color: #757575;
+  margin-left: 24px;
 }
 .section-buttons {
   display: flex;
